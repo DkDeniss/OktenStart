@@ -1,0 +1,37 @@
+.father{
+    display: flex;
+    justify-content: center;
+}
+.cardone, .cardtwo, .cardthree{
+    width: 300px;
+    height: 380px;
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-top: 50px;
+    border: 2px solid black;
+}
+h2{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 30px;
+
+}
+p {
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.button-first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 200px;
+    height: 60px;
+    background: white;
+    margin-bottom: 10px;
+}

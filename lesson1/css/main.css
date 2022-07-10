@@ -1,0 +1,18 @@
+p{
+    color: gold;
+    background: black;
+}
+h1{
+    text-align: center;
+    color: gold;
+    background: black;
+}
+h2{
+    text-align: center;
+    color: darkred;
+    background: skyblue;
+}
+li{
+    color: pink;
+    background: black;
+}

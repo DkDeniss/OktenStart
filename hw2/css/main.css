@@ -1,7 +1,7 @@
 .first {
     width: 500px;
     height: 250px;
-    background: #64b9db;
+    background: #8fd1ea;
     box-sizing: border-box;
     margin: 0 auto;
     align-items: center;
@@ -24,7 +24,7 @@
 
 .one, .two, .three {
     box-sizing: border-box;
-    background: #3c3cff;
+    background: #5e96ff;
     width: 155px;
     height: 200px;
     text-align: center;
@@ -45,7 +45,7 @@
     align-items: center;*/
 }
 .bottom{
-    background: #64b9db;
+    background: #8fd1ea;
     width: 200px;
     height: 230px;
     text-align: center;

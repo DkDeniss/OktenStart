@@ -1,0 +1,59 @@
+.father{
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;*/
+    align-items: center;
+}
+.firststrip{
+    height: 150px;
+    width: 900px;
+    background: silver;
+    position: relative;
+}
+.target{
+    background: #203871;
+    border-radius: 10px;
+    width: 150px;
+    height: 70px;
+    position: relative;
+    top: 40px;
+    left: 60px;
+}
+.icons{
+    width: 900px;
+    position: absolute;
+    right: 90px;
+    display: flex;
+    justify-content: end;
+}
+.icons>i{
+    padding: 20px;
+    color: blueviolet;
+    font-size: 30px;
+}
+.secondstrip{
+    height: 400px;
+    width: 900px;
+    background: #203871;
+    position: relative;
+}
+.mainblock{
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: -80px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.bricks{
+    width: 150px;
+    height: 150px;
+    background: mediumpurple;
+    border-radius: 10px;
+}
+.thirdstrip{
+    height: 150px;
+    width: 900px;
+    background: silver;
+}
